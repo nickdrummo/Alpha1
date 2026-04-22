@@ -35,7 +35,7 @@ It supports saving and loading datasets in JSON format and ensures data persiste
 
 ### Analytics Service
 The analytics service performs sentiment analysis and price analytics on collected financial datasets.  
-It generates analytical outputs that can be retrieved through the API.
+It generates analytical outputs that can be retrieved through the API. Uses an LLM.
 
 ### API Service
 The API service exposes endpoints for data collection, dataset retrieval, analytics, and service interaction.  
